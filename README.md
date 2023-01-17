@@ -10,3 +10,6 @@ Styling: 1std 40min
 -> Libraries
 - Tailwind + Daisy UI
 - papaparse
+
+-> Start
+npm run start
