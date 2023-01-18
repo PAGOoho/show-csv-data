@@ -12,4 +12,4 @@ Styling: 1std 40min
 - papaparse
 
 -> Start
-npm run start
+- npm run start
